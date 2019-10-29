@@ -16,10 +16,13 @@ key: page-about
 
 - **로보틱스**
 	- Robot Control
-	- Indoor Navigation
-	- SLAM
-	- ROS
-	- Mobile Robot
+		- Optimal Control
+		- Mobile Robot Control
+	- Indoor Navigation System
+		- SLAM
+		- 
+	- ROS (Robot Operating System)
+	
 	
 - **인공지능**
 	- Reinforcement Learning
@@ -37,6 +40,6 @@ key: page-about
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4NTQxNjM4LC0yMDIzMjIzNjQxLC0xOD
-kwNzg1MDQ1XX0=
+eyJoaXN0b3J5IjpbMTYyNTQxNjY2NCwtMjAyMzIyMzY0MSwtMT
+g5MDc4NTA0NV19
 -->
