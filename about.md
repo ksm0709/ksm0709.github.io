@@ -4,6 +4,7 @@ titles:  소개
 key: page-about
 ---
 
+---
 ### 강태호 (Taeho Kang) 
 
 - 마산 제일고등학교 졸업 (2007 ~ 2010)
@@ -42,6 +43,6 @@ key: page-about
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjMzMzc4MiwtMTE2MDE5NzE0OSwtNj
-A0MTY5NTAxLC0yMDIzMjIzNjQxLC0xODkwNzg1MDQ1XX0=
+eyJoaXN0b3J5IjpbNTU2NTk4NzgzLC0xMTYwMTk3MTQ5LC02MD
+QxNjk1MDEsLTIwMjMyMjM2NDEsLTE4OTA3ODUwNDVdfQ==
 -->
