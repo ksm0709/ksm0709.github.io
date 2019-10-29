@@ -10,6 +10,7 @@ key: page-about
 - 한양대학교 전자시스템 공학 석사 졸업 (Biorobotics Lab, 2017 ~ 2018)
 - Korea Telecom (KT) 융합기술연구소 재직(2018 ~ )
 - EMAIL: ksm07091@gmail.com
+
 ---
 
 ### 관심 분야 (Interest)
@@ -39,6 +40,6 @@ key: page-about
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MTA2MjkzLC0yMDIzMjIzNjQxLC0xOD
-kwNzg1MDQ1XX0=
+eyJoaXN0b3J5IjpbLTYwNDE2OTUwMSwtMjAyMzIyMzY0MSwtMT
+g5MDc4NTA0NV19
 -->
