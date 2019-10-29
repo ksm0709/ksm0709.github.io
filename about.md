@@ -3,10 +3,9 @@ layout: article
 titles:  소개
 key: page-about
 ---
-
-### 강태호 (TaehoKang)
+### 강태호 (Taeho Kang) 
 ---
-**이메일** : ksm07091@gmail.com</br>
+ksm07091@gmail.com</br>
 **관심 분야** : </br>
 
 - 로보틱스
@@ -29,6 +28,6 @@ key: page-about
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxNTUzNzIxLC0yMDIzMjIzNjQxLC0xOD
-kwNzg1MDQ1XX0=
+eyJoaXN0b3J5IjpbLTg1MTE5OTk1MSwtMjAyMzIyMzY0MSwtMT
+g5MDc4NTA0NV19
 -->
