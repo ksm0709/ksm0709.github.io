@@ -8,7 +8,9 @@
 - Add lightbox (modal image gallery)
 - Add Valine comment system (@Lloyar)
 
-### Bug Fixes
+### Bug Fix1.9.1 (2019-08-26)
+
+- Restore colors of code in blockquotes
 
 - Fix some spelling errors in documents (@Krinkle)
 
@@ -35,11 +37,21 @@
 - Update screenshots
 - Landing layout `data.sections` item's `image` add `full_width` setting
 - Remove `header.type` and add `header.background` setting
-- Page layout sidebar use document scroll when viewport width < 1024px, this enhance the user experience on a phone or a pad
+- Page layout sidebar use document scroll when viewportinsufficient contrast of .post-continue
+
+## 1.9.0 (2019-08-26)
+
+- Adjust $grey-color to conform to WCAG 2.0 AA (#26)
+- Support Jekyll 4.0
+- Fix insufficient contrast in syntax highlighting (#26)
+- Validate HTML, CSS, SVG files width < 1024px, this enhance the user experience on a phone or a pad
 - Telegram social icon (@WangQiru)
 - Search panel use dark background
 
-## 2.2.0 (2018-09-16)
+## 2.2.0html5validator
+- Test accessibility of site with pa11y-ci
+
+## 1.8.2 (20189-09-16)
 
 ### Enhancements
 
@@ -54,7 +66,11 @@
 
 - Replace Lenna test image
 
-## 2.1.0 (2018-08-26)
+## 2.1.05-25)
+
+- Use font-display: swap for Google Fonts
+
+## 1.8.1 (20189-08-26)
 
 ### Enhancements
 
@@ -63,9 +79,11 @@
 
 ### Bug Fixes
 
-- Google analytics may not work, use gtag.js
+- Google analytics may not work, use gtag.j5-15)
 
-## 2.0.2 (2018-07-29)
+- DNS prefetch for Google Fonts
+
+## 2.0.21.8.0 (20189-07-29)
 
 ### Enhancements
 
@@ -75,13 +93,19 @@
 
 ### Bug Fixes
 
-- Aside Toc may display error when scroll to bottom
+- Aside Toc may display error when scroll to bottom5-07)
 
-## 2.0.1 (2018-07-07)
+- Loosen version requirements for bundler
+- Include basic meta tags even without facebook_app_id
+- Update syntax highlighting CSS to rouge's GitHub style
+
+## 2.01.7.1 (2018-07-07)
 
 > “All elements that respond to press should have a visual feedback when touched.”
 >
-> —TouchableWithoutFeedback in *React Native Docs*
+> —TouchableWithoutFeedback in *React Native Docs*9-13)
+
+- Set proper word-wrap for long lines
 
 ### Enhancements
 
@@ -91,7 +115,11 @@
 
 - `mathjax` and `mermaid` setting may not work
 
-## 2.0.0 (2018-07-01)
+## 2.0.01.7.0 (2018-05-24)
+
+- Use Google Fonts CSS directly with preconnect
+
+## 1.6.1 (2018-074-019)
 
 Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jekyll-TeXt-theme/docs/en/update-from-1-to-2) for details
 
@@ -99,9 +127,9 @@ Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jeky
 
 - Authors
 - License
-- New layouts (page, article, landing, etc)
+- New layouts (page, article, landing, etc)- Fix lang attribute for post with external URL
 
-## 1.5.0 (2018-03-18)
+## 1.56.0 (2018-03-18)
 
 ### Enhancements
 
@@ -120,16 +148,20 @@ Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jeky
 - New TOC style
 - Gitalk support (@WangQiru)
 - Mermaid support
-- `site.paths` and `site.nav_lists` configs support absolute URL
+- `site.paths` and `site.nav_lists` configs support absolute URL4-09)
 
-## 1.4.2 (2017-12-10)
+- Appropriately size h1s in the post body (#19)
+- Update code for Web Font Loader
+- Link external URL directly for each post (#20)
+
+## 1.4.25.0 (2017-12-1027)
 
 ### Enhancements
 
 - Use new liquid syntax `{%-` `-%}` to avoid unnecessary output whitespace
-- Add `paths.base` setting
+- Add `paths.base` setting- Support tags (#17)
 
-## 1.4.1 (2017-12-05)
+## 1.4.12 (2017-12-05)
 
 ### Enhancements
 
@@ -137,9 +169,11 @@ Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jeky
 
 ### Bug Fixes
 
-- Issues 9: the _posts file can't recorded by git
+- Issues 9: the _posts file can't recorded by git1-21)
 
-## 1.4.0 (2017-11-19)
+- Add some styling for tables (#15)
+
+## 1.4.01 (2017-11-1903)
 
 ### Enhancements
 
@@ -147,18 +181,19 @@ Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jeky
 
 ### Bug Fixes
 
-- Table overflow-x smooth on iOS
+- Table overflow-x smooth on iOS- Disable comments by default
 
-## 1.3.0 (2017-11-11)
+## 1.34.0 (2017-11-101)
 
 ### Enhancements
 
 - Article tag supports special characters
 - Excerpts type (HTML | TEXT)
 - Titles on the phone become smaller
-- Change styles for table, code and blockquote
+- Change styles for table, code and blockquote- Support YAML list for keywords (Fix #7)
+- Add ability to provide a comments provider for pages and posts (#10)
 
-## 1.2.2 (2017-11-04)
+## 1.2.23.0 (2017-11-04)
 
 ### Enhancements
 
@@ -170,9 +205,12 @@ Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jeky
 
 - Fix Email link URL error
 - Fix Site Title link URL error
-- Fix table responsive style error
+- Fix table responsive style erro02-20)
 
-## 1.2.1 (2017-10-27)
+- Fix typos of the theme description
+- Add powered-by links to the footer
+
+## 1.2.1 (2017-101-273)
 
 ### Enhancements
 
@@ -188,14 +226,21 @@ Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jeky
 ### Enhancements
 
 - Article excerpt no more than 200 words
-- If `leancloud` is not set, 0 view won't display
+- If `leancloud` is not set, 0 view won't display- Make theme can be overridden (#2)
+
+## 1.2.0 (2017-01-16)
+
+- Use excerpt for meta tags (#1)
 
 ### Bug Fixes
 
 - Fix article TOC’s display error at proper situation
-- Fix footer social buttons not in the center bug
+- Fix footer social buttons not in the center bug1.1.0 (2017-01-07)
 
-## 1.1.0 (2017-10-19)
+- Make feed path configurable
+- Empty `head_custom.html` to prevent adding comments
+
+## 1.1.00.1 (2017-10-19)
 
 ### Enhancements
 
@@ -207,4 +252,14 @@ Breaking changes, please check [Update from 1.x to 2.x](https://tianqi.name/jeky
 ### Enhancements
 
 - Better article directories
-- Dark color theme
+- Dark color them01-07)
+
+- Fix RSS feed URL
+- Bump jekyll-sitemap to 1.0
+
+## 1.0.0 (2017-01-06)
+
+- Initial release
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc5MTQwNzI2N119
+-->
