@@ -5,9 +5,10 @@ key: page-about
 ---
 
 ### 강태호 (Taeho Kang) 
-- 한양대학교 전자시스템 공학 학사 졸업 (2010 - 2016)
-- 한양대학교 전자시스템 공학 석사 졸업 (Biorobotics Lab, 2017 - 2018)
-- Korea Telecom (KT) 융합기술연구원 
+- 마산 제일고등학교 졸업 (2007 ~ 2010)
+- 한양대학교 전자시스템 공학 학사 졸업 (2010 ~ 2016)
+- 한양대학교 전자시스템 공학 석사 졸업 (Biorobotics Lab, 2017 ~ 2018)
+- Korea Telecom (KT) 융합기술연구소 재직(Clo2018 ~ )
 - ksm07091@gmail.com
 
 ---
@@ -34,6 +35,6 @@ key: page-about
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTE4MTY1MywtMjAyMzIyMzY0MSwtMT
-g5MDc4NTA0NV19
+eyJoaXN0b3J5IjpbMTI4NDE1MjczLC0yMDIzMjIzNjQxLC0xOD
+kwNzg1MDQ1XX0=
 -->
