@@ -23,7 +23,10 @@ key: page-about
 	
 - **인공지능**
 	- Reinforcement Learning
+		- World Model, Prediction Model
+		- Indoor Navigation
 	- Unsupervised Learning
+		- Generative Adversarial Network (GAN)
 
 - **금융/투자**
 	- 트레이딩 기법
@@ -34,6 +37,6 @@ key: page-about
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MjY3NDc0NCwtMjAyMzIyMzY0MSwtMT
-g5MDc4NTA0NV19
+eyJoaXN0b3J5IjpbNDE4NTQxNjM4LC0yMDIzMjIzNjQxLC0xOD
+kwNzg1MDQ1XX0=
 -->
