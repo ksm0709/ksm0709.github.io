@@ -5,28 +5,30 @@ key: page-about
 ---
 
 ### 강태호 (TaehoKang)
+---
 **이메일** : ksm07091@gmail.com</br>
 **관심 분야** : </br>
 
-- 로보틱스 분야
+- 로보틱스
 	- Robot Control
 	- Indoor Navigation
 	- SLAM
 	- ROS
 	- Mobile Robot
 	
-- 인공지능 분야
+- 인공지능
 	- Reinforcement Learning
 	- Unsupervised Learning
 
-- 금융/투자 분야
+- 금융/투자
 	- 트레이딩 기법
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
-
-> 업데이트 2019.10.30
+	
+---
+> 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDE1NzAyLC0yMDIzMjIzNjQxLC0xOD
+eyJoaXN0b3J5IjpbNDQxNTUzNzIxLC0yMDIzMjIzNjQxLC0xOD
 kwNzg1MDQ1XX0=
 -->
