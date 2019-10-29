@@ -5,8 +5,8 @@ key: page-about
 ---
 
 ### 강태호 (TaehoKang)
-이메일 : ksm07091@gmail.com</br>
-관심 분야 : </br>
+**이메일** : ksm07091@gmail.com</br>
+**관심 분야** : </br>
 
 - 로보틱스 분야
 	- Robot Control
@@ -27,6 +27,6 @@ key: page-about
 > 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzQ4NjAzOCwtMjAyMzIyMzY0MSwtMT
-g5MDc4NTA0NV19
+eyJoaXN0b3J5IjpbMTEwNDE1NzAyLC0yMDIzMjIzNjQxLC0xOD
+kwNzg1MDQ1XX0=
 -->
