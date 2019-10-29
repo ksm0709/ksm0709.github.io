@@ -23,12 +23,10 @@ key: page-about
 	- 트레이딩 기법
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
-	- 
 
-
-블로그 개설일 2019.10.30
+> 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTcwMTI0MCwtMjAyMzIyMzY0MSwtMT
+eyJoaXN0b3J5IjpbMjAyMzQ4NjAzOCwtMjAyMzIyMzY0MSwtMT
 g5MDc4NTA0NV19
 -->
