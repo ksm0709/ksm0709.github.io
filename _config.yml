@@ -34,9 +34,9 @@ timezone: UTC # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : person # "person" (default), "organization"
   name      : TaeHo Kang
-  url       :
+  url       : ksm0709.github.io
   avatar    : # path or url of avatar image (square)
   bio       : 
   email     : ksm07091@gmail.com
@@ -118,11 +118,11 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    shortname: THBlog # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
