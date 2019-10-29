@@ -36,7 +36,6 @@ key: page-about
 - **금융/투자**
 	- 트레이딩 기법
 		- 터틀 트레이딩
-		- 리스크 관리
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
 
@@ -44,7 +43,7 @@ key: page-about
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDM4OTAzNiw1NTY1OTg3ODMsLTExNj
-AxOTcxNDksLTYwNDE2OTUwMSwtMjAyMzIyMzY0MSwtMTg5MDc4
-NTA0NV19
+eyJoaXN0b3J5IjpbNTU2NTk4NzgzLDU1NjU5ODc4MywtMTE2MD
+E5NzE0OSwtNjA0MTY5NTAxLC0yMDIzMjIzNjQxLC0xODkwNzg1
+MDQ1XX0=
 -->
