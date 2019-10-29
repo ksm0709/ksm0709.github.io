@@ -16,11 +16,11 @@ key: page-about
 
 - **로보틱스**
 	- Robot Control
+		- Ro
 		- Optimal Control
 		- Mobile Robot Control
 	- Indoor Navigation System
 		- SLAM
-		- 
 	- ROS (Robot Operating System)
 	
 	
@@ -33,6 +33,7 @@ key: page-about
 
 - **금융/투자**
 	- 트레이딩 기법
+		- 터틀 트레이딩
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
 	
@@ -40,6 +41,6 @@ key: page-about
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTQxNjY2NCwtMjAyMzIyMzY0MSwtMT
-g5MDc4NTA0NV19
+eyJoaXN0b3J5IjpbODY1OTc1ODkzLC0yMDIzMjIzNjQxLC0xOD
+kwNzg1MDQ1XX0=
 -->
