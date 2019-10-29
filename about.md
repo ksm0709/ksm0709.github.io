@@ -5,6 +5,7 @@ key: page-about
 ---
 
 ## 강태호 (Taeho Kang) 
+
 - 마산 제일고등학교 졸업 (2007 ~ 2010)
 - 한양대학교 전자시스템 공학 학사 졸업 (2010 ~ 2016)
 - 한양대학교 전자시스템 공학 석사 졸업 (Biorobotics Lab, 2017 ~ 2018)
@@ -36,10 +37,11 @@ key: page-about
 		- 터틀 트레이딩
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
+
 ---
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDE2OTUwMSwtMjAyMzIyMzY0MSwtMT
-g5MDc4NTA0NV19
+eyJoaXN0b3J5IjpbLTExNjAxOTcxNDksLTYwNDE2OTUwMSwtMj
+AyMzIyMzY0MSwtMTg5MDc4NTA0NV19
 -->
