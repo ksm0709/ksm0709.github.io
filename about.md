@@ -12,7 +12,7 @@ key: page-about
 - EMAIL: ksm07091@gmail.com
 ---
 
-### 관심 분야 (Interest)** : </br>
+### 관심 분야 (Interest) </br>
 
 - **로보틱스**
 	- Robot Control
@@ -35,11 +35,10 @@ key: page-about
 		- 터틀 트레이딩
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
-	
 ---
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1NTMzNjIwLC0yMDIzMjIzNjQxLC0xOD
-kwNzg1MDQ1XX0=
+eyJoaXN0b3J5IjpbLTk2MjM3NzgwOCwtMjAyMzIyMzY0MSwtMT
+g5MDc4NTA0NV19
 -->
