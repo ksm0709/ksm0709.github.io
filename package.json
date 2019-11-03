@@ -3,7 +3,7 @@
   "version": "2.2.4",
   "description": "A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.",
   "scripts": {
-    "build": "cross-env JEKYLL_ENV=production bundle exec jekyll build",
+    "build": "bundle exec jekyll build",
     "serve": "bundle exec jekyll serve -H 0.0.0.0",
     "Gemfile.lock": "docker run --rm -v \"$PWD\":/usr/src/app -w /usr/src/app ruby:2.6 bundle install",
     "docker-dev:build-image": "docker-compose -f ./docker/docker-compose.build-image.yml build",
@@ -28,19 +28,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kitian616/jekyll-TeXt-theme.git"
+    "url": "git+https://github.com/ksm0709/ksm0709.github.io.git"
   },
   "keywords": [
     "jekyll",
     "jekyll-theme",
     "jekyll-template"
   ],
-  "author": "Tian Qi",
+  "author": "Taeho Kang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kitian616/jekyll-TeXt-theme/issues"
+    "url": "https://github.com/ksm0709/ksm0709.github.io/issues"
   },
-  "homepage": "https://github.com/kitian616/jekyll-TeXt-theme",
+  "homepage": "https://github.com/ksm0709/ksm0709.github.io",
   "devDependencies": {
     "cross-env": "^5.2.0",
     "eslint": "^5.4.0",
