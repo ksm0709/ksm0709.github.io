@@ -39,11 +39,9 @@ key: page-about
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
 
----
-> 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjMzNjc5NzgsNTU2NTk4NzgzLDU1Nj
-U5ODc4MywtMTE2MDE5NzE0OSwtNjA0MTY5NTAxLC0yMDIzMjIz
-NjQxLC0xODkwNzg1MDQ1XX0=
+eyJoaXN0b3J5IjpbLTYwOTU0NTgxMSw1NTY1OTg3ODMsNTU2NT
+k4NzgzLC0xMTYwMTk3MTQ5LC02MDQxNjk1MDEsLTIwMjMyMjM2
+NDEsLTE4OTA3ODUwNDVdfQ==
 -->
