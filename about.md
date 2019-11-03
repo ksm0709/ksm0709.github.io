@@ -9,7 +9,7 @@ key: page-about
 ![mypicture](https://lh3.googleusercontent.com/LlRjSjjbO85xdMi9hUAPb9R-dMtnuX8YgfofgHhXj_HM6CHUGtdB2oWbjD5gAV5s2seD7KvuPYs9)
 - 마산 제일고등학교 졸업 (2007 ~ 2010)
 - 한양대학교 전자시스템 공학 학사 졸업 (2010 ~ 2016)
-- 한양대학교 전자시스템 공학 석사 졸업 (Biorobotics Lab, 2017 ~ 2018)
+- 한양대학교 전자시스템 공학 석사 졸업 (Biorobotics Lab[^1], 2017 ~ 2018)
 - Korea Telecom (KT) 융합기술연구소 재직(2018 ~ )
 - EMAIL: ksm07091@gmail.com
 
@@ -39,9 +39,9 @@ key: page-about
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
 
-
+[^1]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTU0NTgxMSw1NTY1OTg3ODMsNTU2NT
+eyJoaXN0b3J5IjpbMTk2MDk4MTAwNyw1NTY1OTg3ODMsNTU2NT
 k4NzgzLC0xMTYwMTk3MTQ5LC02MDQxNjk1MDEsLTIwMjMyMjM2
 NDEsLTE4OTA3ODUwNDVdfQ==
 -->
