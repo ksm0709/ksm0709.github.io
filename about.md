@@ -6,7 +6,7 @@ key: page-about
 
 ---
 ### 강태호 (Taeho Kang) 
-
+![mypicture](https://lh3.googleusercontent.com/LlRjSjjbO85xdMi9hUAPb9R-dMtnuX8YgfofgHhXj_HM6CHUGtdB2oWbjD5gAV5s2seD7KvuPYs9)
 - 마산 제일고등학교 졸업 (2007 ~ 2010)
 - 한양대학교 전자시스템 공학 학사 졸업 (2010 ~ 2016)
 - 한양대학교 전자시스템 공학 석사 졸업 (Biorobotics Lab, 2017 ~ 2018)
@@ -43,7 +43,7 @@ key: page-about
 > 최종 업데이트 2019.10.30
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2NTk4NzgzLDU1NjU5ODc4MywtMTE2MD
-E5NzE0OSwtNjA0MTY5NTAxLC0yMDIzMjIzNjQxLC0xODkwNzg1
-MDQ1XX0=
+eyJoaXN0b3J5IjpbLTEwNjMzNjc5NzgsNTU2NTk4NzgzLDU1Nj
+U5ODc4MywtMTE2MDE5NzE0OSwtNjA0MTY5NTAxLC0yMDIzMjIz
+NjQxLC0xODkwNzg1MDQ1XX0=
 -->
