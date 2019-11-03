@@ -39,9 +39,9 @@ key: page-about
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
 
-[^1]
+[^1]: [http://biorobotics.hanyang.ac.kr/Home](http://biorobotics.hanyang.ac.kr/Home)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDk4MTAwNyw1NTY1OTg3ODMsNTU2NT
+eyJoaXN0b3J5IjpbMTcyOTQ1MDYwOCw1NTY1OTg3ODMsNTU2NT
 k4NzgzLC0xMTYwMTk3MTQ5LC02MDQxNjk1MDEsLTIwMjMyMjM2
 NDEsLTE4OTA3ODUwNDVdfQ==
 -->
