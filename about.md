@@ -8,7 +8,7 @@ key: page-about
 ### 강태호 (Taeho Kang) 
 - 마산 제일고등학교 졸업 (2007 ~ 2010)
 - 한양대학교 전자시스템 공학 학사 졸업 (2010 ~ 2016)
-- 한양대학교 전자시스템 공학 석사 졸업 (Biorobotics Lab [^1], 2017 ~ 2018)
+- 한양대학교 전자시스템 공학 석사 졸업 (Biorobotics Lab, 2017 ~ 2018)
 - Korea Telecom (KT) 융합기술연구소 재직(2018 ~ )
 - EMAIL: ksm07091@gmail.com
 
@@ -33,12 +33,12 @@ key: page-about
 		- Generative Adversarial Network (GAN)
 
 - **금융/투자**
-	- 트레이딩 
+	- 트레이딩 방법론
 	- 트레이딩 봇 개발
 	- 거시경제 흐름
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NzExNzk0LC0xNzUxNTUxMDI5LDE1NT
-QxNjIzODQsNTU2NTk4NzgzLDU1NjU5ODc4MywtMTE2MDE5NzE0
-OSwtNjA0MTY5NTAxLC0yMDIzMjIzNjQxLC0xODkwNzg1MDQ1XX
-0=
+eyJoaXN0b3J5IjpbLTExMDYzMDQ1NDcsLTE3NTE1NTEwMjksMT
+U1NDE2MjM4NCw1NTY1OTg3ODMsNTU2NTk4NzgzLC0xMTYwMTk3
+MTQ5LC02MDQxNjk1MDEsLTIwMjMyMjM2NDEsLTE4OTA3ODUwND
+VdfQ==
 -->
