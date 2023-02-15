@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Noto Serif KR', serif;
+      overflow: scroll;
+	  max-width: 450px;
+    }
+    .container {
+      max-width: 100%;
+      height: auto;
+      overflow: hidden;
+      position: relative;
+    }
+    .image {
+      position: relative;
+      height: 50vh;
+      background-color: #E5F2E8;
+      background-image: url(image.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+    }
+    .text {
+      position: relative;
+      padding: 30px;
+      background-image: url(background.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: bottom;
+      color: #333;
+      height: 77vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: top;
+      align-items: center;
+      text-align: left;
+    }
+    h1 {
+      font-size: 1.3rem;
+      margin: 0px;
+      margin-bottom: 5px;
+      letter-spacing: 0.1em;
+    }
+    pre {
+      font-size: 1.1rem;
+      margin: 0;
+      white-space: pre-wrap;
+      font-family: 'Noto Serif KR', serif;
+      letter-spacing: 0.05em;
+    }
+    .snowflake {
+      position: absolute;
+      width: 5px;
+      height: 5px;
+      background-color: #fff;
+      border-radius: 50%;
+      pointer-events: none;
+      user-select: none;
+      -webkit-animation: snow 10s linear infinite;
+      animation: snow 10s linear infinite;
+    }
+    @keyframes snow {
+      0% {
+        transform: translateY(0);
+      }
+      100% {
+        transform: translateY(1000px);
+      }
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Single+Day&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap" rel="stylesheet">
+  <script>
+    window.onload = function() {
+		var xhttp = new XMLHttpRequest();
+		xhttp.onreadystatechange = function () {
+			if (this.readyState == 4 && this.status == 200) {
+				document.querySelector("#text pre").innerHTML = this.responseText;
+			}
+		};
+		xhttp.open("GET", "text.txt", true);
+		xhttp.send();
+
+    // Create snowflakes
+    var interval = 500; // interval in milliseconds
+    setInterval(function () {
+      var snowflake = document.createElement("div");
+      snowflake.classList.add("snowflake");
+      snowflake.style.left = Math.random() * 100 + "vw";
+      snowflake.style.top = Math.random() * 30 + "vh";
+      document.body.appendChild(snowflake);
+      setTimeout(function () {
+        // remove snowflake once it has fallen out of the visible area
+        snowflake.remove();
+      }, 10000); // delay in milliseconds before removing snowflake
+    }, interval);
+
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <div class="image"></div>
+    <div class="text" id="text">
+      <h1>감사합니다 🌷</h1>
+      <pre></pre>
+    </div>
+  </div>
+</body>
+</html>
