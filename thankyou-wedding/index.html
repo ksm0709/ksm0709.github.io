@@ -81,6 +81,18 @@
   <link href="https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap" rel="stylesheet">
   <script>
+    function getParameterByName(name) {
+      var url = window.location.href;
+      name = name.replace(/[\[\]]/g, '\\$&');
+      var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+      var results = regex.exec(url);
+      if (!results) return null;
+      if (!results[2]) return '';
+      return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+
+    var content = getParameterByName('content');
+
     window.onload = function() {
 		var xhttp = new XMLHttpRequest();
 		xhttp.onreadystatechange = function () {
@@ -88,7 +100,7 @@
 				document.querySelector("#text pre").innerHTML = this.responseText;
 			}
 		};
-		xhttp.open("GET", "text.txt", true);
+		xhttp.open("GET", 'contents/'+content+".txt", true);
 		xhttp.send();
 
     // Create snowflakes
